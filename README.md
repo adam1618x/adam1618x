@@ -2,7 +2,7 @@
 
 <br/>
 
-## 📌 About Me
+## About Me
 
 <p align="left">
 🔐 Aspiring <strong>DevSecOps Engineer</strong> passionate about building secure, resilient systems at the intersection of development, security, and operations. With a strong background in full-stack development and hands-on experience working with IoT systems and cloud infrastructure, I understand the critical importance of security across the entire technology stack.
@@ -18,16 +18,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## Certifications
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohamed-Adam-Jemal&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Mohamed-Adam-Jemal&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/Y7UPK7UYY2NR" target="_blank">
+    <img src="https://img.shields.io/badge/Meta-Back--End%20Developer-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Back-End" />
+  </a>&nbsp;
+  <a href="https://www.coursera.org/account/accomplishments/specialization/7GTJ3UPQHNIC" target="_blank">
+    <img src="https://img.shields.io/badge/Meta-Front--End%20Developer-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Front-End" />
+  </a>
 </p>
 
+<br/>
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohamed-Adam-Jemal&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adam1618x&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://streak-stats.demolab.com/?user=adam1618x&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -118,7 +129,7 @@
 
 ---
 
-<h3 align="center">🤖 IoT & Hardware</h3>
+<h3 align="center">IoT & Hardware</h3>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="48" title="Arduino"/>&nbsp;&nbsp;&nbsp;
@@ -130,19 +141,30 @@
 
 ---
 
-## 🔗 Connect with Me
+## 📬 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-adam-jemal/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="45" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mohamed.adam.jemal@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="45" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://adam-s-official-portfolio.netlify.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Portfolio" width="45" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/mohamed-adam-jemal/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <br/><sub><b>Let's connect</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="mailto:mohamed.adam.jemal@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <br/><sub><b>Drop a message</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://adam-s-official-portfolio.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+        <br/><sub><b>See my work</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
