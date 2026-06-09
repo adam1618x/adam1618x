@@ -5,11 +5,11 @@
 ## About Me
 
 <p align="left">
-🔐 Aspiring <strong>DevSecOps Engineer</strong> passionate about building secure, resilient systems at the intersection of development, security, and operations. With a strong background in full-stack development and hands-on experience working with IoT systems and cloud infrastructure, I understand the critical importance of security across the entire technology stack.
+⚡ <strong>Software & IoT Developer</strong> building full-stack web applications and connected systems that bridge the digital and physical worlds. I work across the entire stack — from responsive frontends and robust backends to embedded hardware and cloud-connected devices.
 </p>
 
 <p align="left">
-🎓 I hold certifications in <strong>front-end and back-end development from Meta</strong> and have worked on real-world projects spanning software applications, connected devices, and cloud environments. My goal is to implement security-driven practices that protect modern systems from development through deployment and beyond.
+🎓 Certified in <strong>front-end and back-end development from Meta</strong>, with hands-on experience delivering real-world projects in web development, IoT systems, and cloud infrastructure. Currently focused on freelance software development while deepening my expertise in intelligent connected systems.
 </p>
 
 > *"A system is a frozen moment of understanding — and the world never stops moving."*
@@ -102,11 +102,10 @@
 
 ---
 
-<h3 align="center">DevOps & Cloud</h3>
+<h3 align="center">Cloud & Infrastructure</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" title="Docker"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" title="Kubernetes"/>&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" title="AWS"/>&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="48" title="Linux"/>
 </p>
